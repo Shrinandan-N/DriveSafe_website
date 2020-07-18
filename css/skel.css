@@ -220,3 +220,6 @@
 				/* padding: (gutters.vertical * 2) 0 0 (gutters.vertical * 2) */
 				padding: 8em 0 0 8em;
 			}
+.footer {
+	margin-bottom: 0 !important;
+}
